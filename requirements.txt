@@ -1,0 +1,10 @@
+Flask
+autopep8
+numpy
+openpyxl
+pandas
+reportlab
+requests
+scikit-learn
+scipy
+seaborn
